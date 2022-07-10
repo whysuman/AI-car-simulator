@@ -1,5 +1,3 @@
-#### Author : [vivekdhir77](https://github.com/vivekdhir77)
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 
 #### <u>Categories</u>: Python(v3.8.5), Machine-Learning, pygame(v2.1.2), Neural-Networks
