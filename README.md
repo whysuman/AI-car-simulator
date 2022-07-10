@@ -20,24 +20,6 @@
 <img src="imgs/Simulation2.png">
 
 
-## Instructions
-
-1. Clone the repository <br> 
-```
-$git clone https://github.com/vivekdhir77/AI-Car.git
-```
-
-2. navigate to this folder <br>
-3. Install pygame
-```
-$pip install pygame
-``` 
-
-4. Run main.py <br>
-```
-$python main.py
-```
-
 ## File structure
 <img src="imgs/Tree.png">
 
