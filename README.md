@@ -10,8 +10,6 @@
 - <b>Genetic Algorithm explained<b>
 
 
-## About
-
 # AI car training simulation
 #### <u><b>UNIQUENESS</b></u> : This project is made using Feedforward Neural network (`without using any machine learning library`)
 
